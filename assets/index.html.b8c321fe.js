@@ -1,0 +1,1 @@
+const e={key:"v-510ed0d4",path:"/changelog/",title:"Changelog",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642755096e3,contributors:[{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:1}]},filePathRelative:"changelog/index.md"};export{e as data};

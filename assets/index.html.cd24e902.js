@@ -1,0 +1,1 @@
+const t={key:"v-08a5d2dc",path:"/installation/",title:"Installation",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Install the package",slug:"install-the-package",children:[]}],git:{updatedTime:1642759125e3,contributors:[{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:2}]},filePathRelative:"installation/index.md"};export{t as data};
